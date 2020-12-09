@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',function(event){
    //calling for triangle
    drawTriangle(x1,y1,x2,y2,x3,y3,ctx)
   
-   //calling for starting point
+   //calling for  points
    drawPoint(x,y,ctx)
    
    //loop
